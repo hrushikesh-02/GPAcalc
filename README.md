@@ -2,10 +2,10 @@
 
 A simple web application used to calculate GPA based on credits and grades.
 
-Used over 31k times over a span of 3-4 days. 
+Used over 61k times over a span of 3-4 days. 
 
 ## Link
- Github Pages Link: [gpacal.live](https://jaydeep-p.github.io/GPAcalculator/)
+ Github Pages Link: [gpacal.live](https://hrushikesh-02.github.io/GPAcalculator/)
 
 ## Images
 
@@ -23,7 +23,7 @@ Used over 31k times over a span of 3-4 days.
 
 ## How to run
 
-    git clone https://github.com/Jaydeep-P/GPAcalculator.git
+    git clone https://github.com/hrushikesh-02/GPAcalculator.git
     npm i
     npm run dev
     
